@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qqg5ykr3eYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Lab4_paradygmaty\\Programming-Languages-and-Paradigms\\FSharpLab4\\FSharpLab4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
